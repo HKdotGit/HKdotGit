@@ -17,6 +17,7 @@ Building with AI/ML, NLP & LLMs.
 - C
 - Git & GitHub
 - HTML/CSS
+- vb.net
 - Arduino
 - AI/ML Basics
 
@@ -38,3 +39,4 @@ Working on AI, NLP and automation-based projects.
 
 ## Connect With Me
 LinkedIn: www.linkedin.com/in/hk4ln
+Email: hrishikeshkunde07@gmail.com
