@@ -1,4 +1,4 @@
-# Hey, I'm Hrishikesh 👋
+# Hey, I'm HK 👋
 
 Building with AI/ML, NLP & LLMs.
 
